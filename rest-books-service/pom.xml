@@ -14,7 +14,7 @@
 	<description>REST service</description>
 
 	<properties>
-		<springfox.version>2.9.2</springfox.version>
+		<springfox.version>2.10.0</springfox.version>
 		<lombok.version>1.18.16</lombok.version>
 		<graphql-gateway.version>0.0.1-SNAPSHOT</graphql-gateway.version>
 	</properties>
